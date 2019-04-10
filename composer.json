@@ -1,0 +1,21 @@
+{
+  "name":"wtdl/order",
+  "description": "快递单号查询,下单,支持国内近100家快递单号查询。",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","快递"],
+  "license": "MIT",
+  "authors":[
+    {
+      "name":"pengjian",
+      "email":"szpengjian@gmail.com"
+    }
+  ],
+  "require":{
+    "yiisoft/yii2": "*"
+  },
+  "autoload":{
+    "psr-4":{
+      "wtdl\\order\\":"src/"
+    }
+  }
+}
