@@ -15,7 +15,7 @@
   },
   "autoload":{
     "psr-4":{
-      "wtdl\\order\\":"src/"
+      "Wtdl\\Order\\":"src/"
     }
   }
 }
